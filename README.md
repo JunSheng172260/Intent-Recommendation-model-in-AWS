@@ -1,6 +1,6 @@
 # Intent-Recommendation-model-in-AWS
 
-![GitHub Logo](/images/flow.png)
+![GitHub Logo](/flow.png)
 Format: ![Alt Text](url)
 
 To run the system code, please follow the following step:
