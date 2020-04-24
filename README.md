@@ -2,9 +2,9 @@
 
 ![GitHub Logo](/flow.png)
 
-# Remark:
-# *All the codes was running in AWS Lambda
-# *Please specify your own parameter in the code as the parameter in these few files was based on my AWS environment.
+Remark:
+*All the codes was running in AWS Lambda
+*Please specify your own parameter in the code as the parameter in these few files was based on my AWS environment.
 
 To run the system code, please follow the following step:
 1. Run InputFile.py
